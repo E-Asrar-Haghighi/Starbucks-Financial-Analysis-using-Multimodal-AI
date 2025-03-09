@@ -24,7 +24,7 @@ query = "Why is the company revenue declining?"
 ```
 The AI will retrieve relevant financial statements and generate an insightful response.
 
-## This project is part of the RAG, AI Agents and Generative AI with Python and OpenAI 2025 from Udemy
+**This project is part of the RAG, AI Agents and Generative AI with Python and OpenAI 2025 from Udemy**
 
 
 ## License
